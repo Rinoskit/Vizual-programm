@@ -1,0 +1,32 @@
+{
+  "name": "vizual-programm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "types": "./script.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.2",
+    "@vitest/coverage-v8": "^4.0.18",
+    "@vitest/ui": "^4.0.18",
+    "vitest": "^4.0.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinoskit/Vizual-programm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinoskit/Vizual-programm/issues"
+  },
+  "homepage": "https://github.com/Rinoskit/Vizual-programm#readme"
+}

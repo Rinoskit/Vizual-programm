@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "types": ["vitest/importMeta"],
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "noUncheckedIndexedAccess": true,
+    "strict": true,
+    "jsx": "react-jsx",
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  }
+}
